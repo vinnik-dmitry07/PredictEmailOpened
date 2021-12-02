@@ -1,4 +1,4 @@
-# PredictEmailOpened
+# predict-email-opened
 
 ## Task
 
